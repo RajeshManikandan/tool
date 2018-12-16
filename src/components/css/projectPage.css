@@ -1,0 +1,48 @@
+.project {
+  padding: 0;
+}
+.project .jumbotron {
+  background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/03/78/57/1157c16dd9b4b61.jpg");
+  /* background-image: linear-gradient(
+    to right,
+    #0c88b2,
+    #007cb6,
+    #006fb9,
+    #0061b8,
+    #2a50b2
+  ); */
+  color: #fff;
+  padding: 30px;
+  margin-bottom: 0;
+}
+.project .title {
+  font-weight: bold;
+  text-align: center;
+}
+.project .jumbotron p {
+  font-size: 12px;
+  font-stretch: expanded;
+  text-align: center;
+}
+.sub-nav {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: rgb(180, 176, 176);
+}
+.sub-nav ul {
+  margin-top: 0;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.sub-nav li a {
+  font-size: 14px;
+}
+.sub-nav ul li {
+  padding: 8px !important;
+}
+.sub-nav ul,
+.sub-nav li,
+.sub-nav a {
+  padding: 0 !important;
+  margin: 0 !important;
+}

@@ -1,0 +1,17 @@
+.associated-users li {
+  display: inline;
+}
+.associated-users .head {
+  clear: both;
+  margin-left: 5px;
+}
+.associated-users .pill {
+  margin-left: 4px;
+  margin-right: 4px;
+  cursor: pointer;
+}
+.associated-users ul {
+  margin-bottom: 0;
+  margin-left: 0;
+  padding-left: 0;
+}
